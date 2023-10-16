@@ -1,2 +1,3 @@
-# memory.alg
-AlgoVS code
+
+AlgoVS code project
+ds:димистик
